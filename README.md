@@ -1,2 +1,2 @@
 # learnPython
-# This file inludes my first application writen by Python.
+# This file inludes my first application written by Python.
